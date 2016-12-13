@@ -1,0 +1,1985 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en"><head>
+	<!-- no cache headers -->
+	<meta http-equiv="Pragma" content="no-cache">
+	<meta http-equiv="Expires" content="-1">
+	<meta http-equiv="Cache-Control" content="no-cache">
+	<!-- end no cache headers -->
+	<link rel="canonical" href="http://www.wickedfire.com/">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta name="generator" content="vBulletin 3.8.7">
+
+<meta name="keywords" content="affiliate marketing,internet marketing,web design,web development,search engine optimization seo,cpm,ppc,cpc,cpl,cpa,affiliate programs,affiliate community,forum,ppc arbitrage">
+<meta name="description" content="Affiliate Marketing Webmaster Forum. A great place to learn SEO, web design and development, and internet marketing along with affiliate marketing strategies.">
+
+<meta name="google-site-verification" content="uD2Ewj9jHsdYAOLZ__5VpC6jKkmmE3tttYPvnOxq0Qg">
+<!-- CSS Stylesheet -->
+<style type="text/css" id="vbulletin_css">
+/**
+* vBulletin 3.8.7 CSS
+* Style: 'WickedFire - No tabs'; Style ID: 30
+*/
+body
+{
+	background: #3C3838;
+	color: #FFFFFF;
+	font: 10pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	margin: 0px;
+	padding: 0px;
+	margin-left:auto;
+	margin-right:auto;
+}
+a:link, body_alink
+{
+	color: #FFC300;
+}
+a:visited, body_avisited
+{
+	color: #FEA200;
+}
+a:hover, a:active, body_ahover
+{
+	color: #FF4400;
+}
+.page
+{
+	background: #3C3838;
+	color: #FFFFFF;
+}
+td, th, p, li
+{
+	font: 10pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.tborder
+{
+	background: #000000;
+	color: #FFFFFF;
+	border: 1px solid #000000;
+}
+.tcat
+{
+	background: #333333;
+	color: #FFFFFF;
+	font: bold 10pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.tcat a:link, .tcat_alink
+{
+	color: #ffffff;
+	text-decoration: none;
+}
+.tcat a:visited, .tcat_avisited
+{
+	color: #ffffff;
+	text-decoration: none;
+}
+.tcat a:hover, .tcat a:active, .tcat_ahover
+{
+	color: #FFFF66;
+	text-decoration: underline;
+}
+.thead
+{
+	background: #333333;
+	color: #FFFFFF;
+	font: bold 11px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.thead a:link, .thead_alink
+{
+	color: #FFFFFF;
+}
+.thead a:visited, .thead_avisited
+{
+	color: #FFFFFF;
+}
+.thead a:hover, .thead a:active, .thead_ahover
+{
+	color: #FFFF00;
+}
+.tfoot
+{
+	background: #B72200;
+	color: #E0E0F6;
+	border: 1px solid #000;
+}
+.tfoot a:link, .tfoot_alink
+{
+	color: #E0E0F6;
+}
+.tfoot a:visited, .tfoot_avisited
+{
+	color: #E0E0F6;
+}
+.tfoot a:hover, .tfoot a:active, .tfoot_ahover
+{
+	color: #FFFF66;
+}
+.alt1, .alt1Active
+{
+	background: #4F4A4A;
+	color: #ffffff;
+}
+.alt2, .alt2Active
+{
+	background: #5f5f5f;
+	color: #ffffff;
+}
+.inlinemod
+{
+	background: #FFFFCC;
+	color: #000000;
+}
+.wysiwyg
+{
+	background: #666666;
+	color: #ffffff;
+	font: 10pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+textarea, .bginput
+{
+	font: 10pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.bginput option, .bginput optgroup
+{
+	font-size: 10pt;
+	font-family: verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.button
+{
+	font: 11px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+select
+{
+	font: 11px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+option, optgroup
+{
+	font-size: 11px;
+	font-family: verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.smallfont
+{
+	font: 11px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.time
+{
+	color: #FFFFFF;
+}
+.navbar
+{
+	font: 11px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.highlight
+{
+	color: #FF0000;
+	font-weight: bold;
+}
+.fjsel
+{
+	background: #333333;
+	color: #E0E0F6;
+}
+.fjdpth0
+{
+	background: #F7F7F7;
+	color: #000000;
+}
+.panel
+{
+	background: #333333;
+	color: #FFFFFF;
+	padding: 10px;
+	border: 2px outset;
+}
+.panelsurround
+{
+	background: #333333;
+	color: #FFFFFF;
+}
+legend
+{
+	color: #FFFFFF;
+	font: 11px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.vbmenu_control
+{
+	background: #B72200;
+	color: #FFFFFF;
+	font: bold 11px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	padding: 3px 6px 3px 6px;
+	white-space: nowrap;
+}
+.vbmenu_control a:link, .vbmenu_control_alink
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.vbmenu_control a:visited, .vbmenu_control_avisited
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.vbmenu_control a:hover, .vbmenu_control a:active, .vbmenu_control_ahover
+{
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+.vbmenu_popup
+{
+	background: #FFFFFF;
+	color: #000000;
+	border: 1px solid #0B198C;
+}
+.vbmenu_option
+{
+	background: #BBC7CE;
+	color: #000000;
+	font: 11px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	white-space: nowrap;
+	cursor: pointer;
+}
+.vbmenu_option a:link, .vbmenu_option_alink
+{
+	color: #22229C;
+	text-decoration: none;
+}
+.vbmenu_option a:visited, .vbmenu_option_avisited
+{
+	color: #22229C;
+	text-decoration: none;
+}
+.vbmenu_option a:hover, .vbmenu_option a:active, .vbmenu_option_ahover
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.vbmenu_hilite
+{
+	background: #8A949E;
+	color: #FFFFFF;
+	font: 11px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	white-space: nowrap;
+	cursor: pointer;
+}
+.vbmenu_hilite a:link, .vbmenu_hilite_alink
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.vbmenu_hilite a:visited, .vbmenu_hilite_avisited
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.vbmenu_hilite a:hover, .vbmenu_hilite a:active, .vbmenu_hilite_ahover
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+/* ***** styling for 'big' usernames on postbit etc. ***** */
+.bigusername { font-size: 14pt; }
+
+/* ***** small padding on 'thead' elements ***** */
+td.thead, th.thead, div.thead { padding: 4px; }
+
+/* ***** basic styles for multi-page nav elements */
+.pagenav a { text-decoration: none; }
+.pagenav td { padding: 2px 4px 2px 4px; }
+
+/* ***** de-emphasized text */
+.shade, a.shade:link, a.shade:visited { color: #777777; text-decoration: none; }
+a.shade:active, a.shade:hover { color: #FF4400; text-decoration: underline; }
+.tcat .shade, .thead .shade, .tfoot .shade { color: #DDDDDD; }
+
+/* ***** define margin and font-size for elements inside panels ***** */
+.fieldset { margin-bottom: 6px; }
+.fieldset, .fieldset td, .fieldset p, .fieldset li { font-size: 11px; }
+
+
+/* Syntax Highlighting */
+.dp-highlighter
+.dp-highlighter ol,
+.dp-highlighter ol li,
+.dp-highlighter ol li span 
+{
+	font-weight: normal;
+	font-family: "Consolas", "Monaco", "Courier New", Courier, monospace !important;
+	font-size: 12px;
+}
+
+.dp-highlighter
+{
+	background-color: #E7E5DC;
+	width: 620px;
+	overflow: auto;
+	margin: 0px 0 18px 0 !important;
+	padding-top: 0px; /* adds a little border on top when controls are hidden */
+	padding-right: 1px; /* adds a little border on top when controls are hidden */
+}
+
+/* clear styles */
+.dp-highlighter ol,
+.dp-highlighter ol li,
+.dp-highlighter ol li span 
+{
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+.dp-highlighter a,
+.dp-highlighter a:hover
+{
+	background: none;
+	border: none;
+	padding: 0;
+	margin: 0;
+}
+
+.dp-highlighter .bar
+{
+	padding-left: 45px;
+}
+
+.dp-highlighter.collapsed .bar,
+.dp-highlighter.nogutter .bar
+{
+	padding-left: 0px;
+}
+
+.dp-highlighter ol
+{
+	list-style: decimal; /* for ie */
+	background-color: #fff;
+	margin: 0px 0px 1px 45px !important; /* 1px bottom margin seems to fix occasional Firefox scrolling */
+	padding: 0px;
+	color: #5C5C5C;
+}
+
+.dp-highlighter.nogutter ol,
+.dp-highlighter.nogutter ol li
+{
+	list-style: none !important;
+	margin-left: 0px !important;
+}
+
+.dp-highlighter ol li,
+.dp-highlighter .columns div
+{
+	list-style: decimal-leading-zero; /* better look for others, override cascade from OL */
+	list-style-position: outside !important;
+	border-left: 3px solid #6CE26C;
+	background-color: #F8F8F8;
+	color: #5C5C5C;
+	padding: 0 3px 0 10px !important;
+	margin: 0 !important;
+	line-height: 14px;
+}
+
+.dp-highlighter.nogutter ol li,
+.dp-highlighter.nogutter .columns div
+{
+	border: 0;
+}
+
+.dp-highlighter .columns
+{
+	background-color: #F8F8F8;
+	color: gray;
+	overflow: hidden;
+	width: 80%;
+}
+
+.dp-highlighter .columns div
+{
+	padding-bottom: 5px;
+}
+
+.dp-highlighter ol li.alt
+{
+	background-color: #FFF;
+	color: inherit;
+}
+
+.dp-highlighter ol li span
+{
+	color: black;
+	background-color: inherit;
+}
+
+/* Adjust some properties when collapsed */
+
+.dp-highlighter.collapsed ol
+{
+	margin: 0px;
+}
+
+.dp-highlighter.collapsed ol li
+{
+	display: none;
+}
+
+/* Additional modifications when in print-view */
+
+.dp-highlighter.printing
+{
+	border: none;
+}
+
+.dp-highlighter.printing .tools
+{
+	display: none !important;
+}
+
+.dp-highlighter.printing li
+{
+	display: list-item !important;
+}
+
+/* Styles for the tools */
+
+.dp-highlighter .tools
+{
+	padding: 3px 8px 3px 10px;
+	font: 9px Verdana, Geneva, Arial, Helvetica, sans-serif;
+	color: silver;
+	background-color: #f8f8f8;
+	padding-bottom: 10px;
+	border-left: 3px solid #6CE26C;
+}
+
+.dp-highlighter.nogutter .tools
+{
+	border-left: 0;
+}
+
+.dp-highlighter.collapsed .tools
+{
+	border-bottom: 0;
+}
+
+.dp-highlighter .tools a
+{
+	font-size: 9px;
+	color: #a0a0a0;
+	background-color: inherit;
+	text-decoration: none;
+	margin-right: 10px;
+}
+
+.dp-highlighter .tools a:hover
+{
+	color: red;
+	background-color: inherit;
+	text-decoration: underline;
+}
+
+/* About dialog styles */
+
+.dp-about { background-color: #fff; color: #333; margin: 0px; padding: 0px; }
+.dp-about table { width: 80%; height: 100%; font-size: 11px; font-family: Tahoma, Verdana, Arial, sans-serif !important; }
+.dp-about td { padding: 10px; vertical-align: top; }
+.dp-about .copy { border-bottom: 1px solid #ACA899; height: 95%; }
+.dp-about .title { color: red; background-color: inherit; font-weight: bold; }
+.dp-about .para { margin: 0 0 4px 0; }
+.dp-about .footer { background-color: #ECEADB; color: #333; border-top: 1px solid #fff; text-align: right; }
+.dp-about .close { font-size: 11px; font-family: Tahoma, Verdana, Arial, sans-serif !important; background-color: #ECEADB; color: #333; width: 60px; height: 22px; }
+
+/* Language specific styles */
+
+.dp-highlighter .comment, .dp-highlighter .comments { color: #008200; background-color: inherit; }
+.dp-highlighter .string { color: blue; background-color: inherit; }
+.dp-highlighter .keyword { color: #069; font-weight: bold; background-color: inherit; }
+.dp-highlighter .preprocessor { color: gray; background-color: inherit; }
+
+.ad_container  {
+width: 728px;
+margin: 0 auto;
+}
+
+.ad_container2  {
+margin: 0 auto;
+width: 728px;
+text-align: center;
+}
+.vbimgcodelimit {
+        cursor: pointer;
+        border: dotted 1px black;
+}
+</style>
+<link rel="stylesheet" type="text/css" href="http://www.wickedfire.com/clientscript/vbulletin_important.css?v=387">
+
+
+<!-- / CSS Stylesheet -->
+
+<script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript" src="clientscript/yui/yahoo-dom-event/yahoo-dom-event.js?v=387"></script>
+<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=387"></script>
+<script type="text/javascript">
+<!--
+var SESSIONURL = "s=26156d5e4e22028545939de26621c553&";
+var SECURITYTOKEN = "guest";
+var IMGDIR_MISC = "images/misc";
+var vb_disable_ajax = parseInt("0", 10);
+// -->
+</script>
+<script type="text/javascript" src="clientscript/vbulletin_global.js?v=387"></script>
+<script type="text/javascript" src="clientscript/vbulletin_menu.js?v=387"></script>
+
+
+	<link rel="alternate" type="application/rss+xml" title="WickedFire - Affiliate Marketing Forum - Internet Marketing Webmaster SEO Forum RSS Feed" href="http://www.wickedfire.com/external.php?type=RSS2">
+	
+
+<script type="text/javascript" src="clientscript/ame.js"></script><style type="text/css">
+.poll, td.poll a:link,td.poll a:visited,td.poll a:active, td.poll a{
+	font: 10px Verdana, Arial, Helvetica, sans-serif;
+	color: #000;
+	text-decoration:none}
+.nowrap{white-space:nowrap}
+</style>
+	<title>WickedFire - Affiliate Marketing Forum - Internet Marketing Webmaster SEO Forum</title>
+
+
+
+					<script type="text/javascript">
+					<!--
+						var _gaq = _gaq || [];
+
+						_gaq.push(['_setDomainName', '.wickedfire.com']);
+
+_gaq.push(['_setAccount', 'UA-550422-7']);
+
+_gaq.push(['_trackPageview']);
+						
+						(function() {
+							var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+							ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+							var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+						})();
+					//-->
+					</script>
+				<script type="text/javascript" async="" src="http://s3.buysellads.com/ac/bsa.js"></script><script type="text/javascript" id="_bsap_js_7bbbed16d856f4dd9ab10bd388f00ced" src="//s3.buysellads.com/r/s_7bbbed16d856f4dd9ab10bd388f00ced.js?v=1479333600000" async="async"></script><script type="text/javascript" src="//s3.buysellads.com/ac/pro.js" id="_bsap_premium_pro"></script><script type="text/javascript" id="_bsaPRO_js" src="//srv.buysellads.com/ads/get/ids/CASI6KE;CASI62T;C6YD453W/?r=1479333600000" async="async"></script></head>
+<body>
+<!-- BuySellAds Ad Code -->
+<script type="text/javascript">
+(function(){
+  var bsa = document.createElement('script');
+     bsa.type = 'text/javascript';
+     bsa.async = true;
+     bsa.src = 'http://s3.buysellads.com/ac/bsa.js';
+  (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
+})();
+</script>
+<!-- End BuySellAds Ad Code -->
+
+<!-- logo -->
+<a name="top"></a>
+
+<div align="center" style="background: url('/images/background.gif') repeat-x;">
+    <a href="http://www.wickedfire.com/?s=26156d5e4e22028545939de26621c553"><img src="images/wickedfire-banner.jpg" border="0" alt="WickedFire - Affiliate Marketing Forum - Internet Marketing Webmaster SEO Forum" title="WickedFire - Affiliate Marketing Forum - Internet Marketing Webmaster SEO Forum"></a>
+</div><!-- center the banner -->
+
+<!-- /logo -->
+
+<!-- content table -->
+<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<!--<div style="padding:0px" align="left">-->
+		<div style="padding:0px 25px 0px 25px" align="left">
+
+
+
+
+
+<br>
+
+<!-- breadcrumb, login, pm info -->
+<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tbody><tr>
+	<td class="alt1" width="100%">
+		
+			<div class="navbar" style="font-size:10pt"><a href="http://www.wickedfire.com/?s=26156d5e4e22028545939de26621c553" accesskey="1"><img class="inlineimg" src="images/misc/navbits_start.png" alt="" border="0"></a> <strong>WickedFire - Affiliate Marketing Forum - Internet Marketing Webmaster SEO Forum</strong></div>
+		
+	</td>
+
+	<td class="alt2" nowrap="nowrap" style="padding:0px">
+		<!-- login form -->
+		<form action="http://www.wickedfire.com/login.php?do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+		<script type="text/javascript" src="clientscript/vbulletin_md5.js?v=387"></script>
+		<table cellpadding="0" cellspacing="3" border="0">
+		<tbody><tr>
+			<td class="smallfont" style="white-space: nowrap;"><label for="navbar_username">User Name</label></td>
+			<td><input type="text" class="bginput" style="font-size: 11px" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="User Name" onfocus="if (this.value == 'User Name') this.value = '';"></td>
+			<td class="smallfont" nowrap="nowrap"><label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" tabindex="103" id="cb_cookieuser_navbar" accesskey="c">Remember Me?</label></td>
+		</tr>
+		<tr>
+			<td class="smallfont"><label for="navbar_password">Password</label></td>
+			<td><input type="password" class="bginput" style="font-size: 11px" name="vb_login_password" id="navbar_password" size="10" tabindex="102"></td>
+			<td><input type="submit" class="button" value="Log in" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s"></td>
+		</tr>
+		</tbody></table>
+		<input type="hidden" name="s" value="26156d5e4e22028545939de26621c553">
+		<input type="hidden" name="securitytoken" value="guest">
+		<input type="hidden" name="do" value="login">
+		<input type="hidden" name="vb_login_md5password">
+		<input type="hidden" name="vb_login_md5password_utf">
+		</form>
+		<!-- / login form -->
+	</td>
+
+</tr>
+</tbody></table>
+<!-- / breadcrumb, login, pm info -->
+
+<!-- nav buttons bar -->
+<div class="tborder" style="padding:1px; border-top-width:0px">
+	<table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+	<tbody><tr align="center">
+		
+		
+			<td class="vbmenu_control"><a href="http://www.wickedfire.com/register.php?s=26156d5e4e22028545939de26621c553" rel="nofollow">Register</a></td>
+		
+		
+
+		<!--<td class="vbmenu_control"><a href="http://www.wickedfire.com/faq.php?s=26156d5e4e22028545939de26621c553" accesskey="5">FAQ</a></td>-->
+
+		<td class="vbmenu_control"><a href="http://www.wickedfire.com/vaispy.php">WF Live</a></td>
+<!--        <td class="vbmenu_control"><a href="http://www.wickedfire.com/payments.php">Upgrade Account</a></td>-->
+
+		<td class="vbmenu_control"><a href="http://www.wickedfire.com/itrader.php?s=26156d5e4e22028545939de26621c553">iTrader</a></td>
+		
+		
+			<td class="vbmenu_control"><a href="http://www.wickedfire.com/members/list/?s=26156d5e4e22028545939de26621c553">Members List</a></td>
+		
+		
+		<!--<td class="vbmenu_control"><a href="http://www.wickedfire.com/calendar.php?s=26156d5e4e22028545939de26621c553">Calendar</a></td>-->
+		
+		
+		
+			
+			
+		
+		
+		
+		<td class="vbmenu_control"><a rel="nofollow" href="http://www.wickedfire.com/view.php?pg=ads">Advertise</a></td>
+		
+		
+		
+		</tr>
+	</tbody></table>
+</div>
+<!-- / nav buttons bar -->
+
+<br>
+
+
+
+
+
+
+<!-- NAVBAR POPUP MENUS -->
+
+	
+
+	
+<!-- / NAVBAR POPUP MENUS -->
+
+<!-- PAGENAV POPUP -->
+	<div class="vbmenu_popup" id="pagenav_menu" style="display:none">
+		<table cellpadding="4" cellspacing="1" border="0">
+		<tbody><tr>
+			<td class="thead" nowrap="nowrap">Go to Page...</td>
+		</tr>
+		<tr>
+			<td class="vbmenu_option" title="nohilite">
+			<form action="http://www.wickedfire.com/index.php" method="get" onsubmit="return this.gotopage()" id="pagenav_form">
+				<input type="text" class="bginput" id="pagenav_itxt" style="font-size:11px" size="4">
+				<input type="button" class="button" id="pagenav_ibtn" value="Go">
+			</form>
+			</td>
+		</tr>
+		</tbody></table>
+	</div>
+<!-- / PAGENAV POPUP -->
+
+
+
+
+
+
+<!-- // Start Welcome Headers // -->
+<!-- google_ad_section_start(weight=ignore) -->
+
+
+	
+	
+		<!-- guest welcome message -->
+		<br>
+		<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<tbody><tr> 
+			<td class="alt1">
+				Welcome to the <strong>WickedFire - Affiliate Marketing Forum - Internet Marketing Webmaster SEO Forum</strong> forums. <br><br>You are currently viewing our boards as a guest which gives you limited access to view most discussions and access our other features. By joining our <strong>free</strong> community you will have access to post topics, communicate privately with other members (PM), respond to polls, upload content and access many other special features. Registration is fast, simple and absolutely free so please, <a href="http://www.wickedfire.com/register.php?s=26156d5e4e22028545939de26621c553"><strong>join our community today</strong></a>! <br><br>If you have any problems with the registration process or your account login, please contact <a href="http://www.wickedfire.com/sendmessage.phps=26156d5e4e22028545939de26621c553&amp;">contact us</a>.
+			</td>
+		</tr>
+		</tbody></table>
+		<!-- / guest welcome message -->
+	
+
+	
+
+	
+
+	
+				
+	
+					
+
+
+<!-- google_ad_section_end -->
+<!-- // End Welcome Headers // -->
+
+	
+
+
+    <div class="ad_container">
+<!-- BuySellAds Zone Code -->
+<div id="bsap_1299046" class="bsap bsap_1299046" data-serve="CASI6KE">
+<style type="text/css">
+div.bsap_1299046{width:100%;display:block;}div.bsap_1299046 a{width:728px;}div.bsap_1299046 a img{padding:0;}div.bsap_1299046 a em{font-style:normal;}div.bsap_1299046 a{display:block;font-size:11px;color:#888;font-family:verdana,sans-serif;margin:auto;width:100%;text-align:center;text-decoration:none;overflow:hidden;float:left;}
+div.bsap_1299046 img{border:0;clear:right;}
+div.bsap_1299046 a.adhere{color:#666;font-weight:bold;font-size:12px;border:1px solid #ccc;background:#e7e7e7;text-align:center;}
+div.bsap_1299046 a.adhere:hover{border:1px solid #999;background:#ddd;color:#333;}
+div.bsap_1299046 iframe{display:block;font-size:11px;color:#888;font-family:verdana,sans-serif;margin:auto;width:100%;text-align:center;text-decoration:none;overflow:hidden;float:left;}div.bsap_1299046 a{line-height:100%;}div.bsap_1299046 a.adhere{width:728px;height:90px;line-height:720%;}html>body div.bsap_1299046 a.adhere{width:726px;height:88px;}div.bsap_1299046 img.s{height:0;width:0;}div.bsap_1299046{line-height:9px;}div.bsap_1299046 .bsap_adhere2,div.bsap_1299046 iframe{float:left;}div.bsap_1299046 .bsap_adhere2 a{height:90px;width:20px;background:url(http:\/\/s3.buysellads.com\/ac\/ah20x90_1.gif) no-repeat 0 0;text-indent:-9999px;}
+</style>
+<a href="//srv.buysellads.com/ads/click/x/GTND423UF67I65Q7F6B4YKQWCAAI65QIFT7DEZ3JCESILK7MC67DT27KC6BD55QICK7IKK3EHJNCLSIZ" class="ad0 odd " title="POD" id="bsa_7122318" target="_blank" rel="nofollow">
+<img src="//s3.buysellads.com/1299046/7122318-1478199515.gif" width="728" height="90" alt=""></a>
+<script type="text/javascript" id="auto_1" class="ignoreme"> if (typeof(BSACallback) !== 'undefined') BSACallback(); </script></div>
+<!-- End BuySellAds Zone Code -->
+</div>
+<div style="clear: both"></div>
+
+
+
+
+<div align="center">
+
+
+
+</div>
+
+<br>
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody><tr valign="top">
+	<td>
+
+
+
+<!-- main -->
+
+
+<!-- rightside column -->
+<table border="0" width="100%" class="page" cellspacing="0" cellpadding="0" align="center">
+<tbody><tr>
+	<td valign="top">
+<!-- / rightside column -->
+
+<!-- /Tabbed Forum Home Tabs Layout -->
+<!-- Tabbed Forum Home – START Tab 1 Content Layout -->
+
+
+
+<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<thead>
+	<tr align="center">
+	  <td class="thead">&nbsp;</td>
+	  <td class="thead" width="100%" align="left">Forum</td>
+	  <td class="thead">Last Post</td>
+	  <td class="thead">Threads</td>
+	  <td class="thead">Posts</td>
+	  
+	</tr>
+</thead>
+
+<tbody>
+
+	<tr align="center">
+		<td class="alt1Active" colspan="2" align="left" id="f62">
+
+		<table cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+			<td><img src="images/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_62"></td>
+			<td><img src="http://www.wickedfire.com/clear.gif" alt="" width="9" height="1" border="0"></td>
+			<td>
+			<div>
+				<a href="http://www.wickedfire.com/rules-of-engagement/?s=26156d5e4e22028545939de26621c553"><strong>Rules of Engagement</strong></a>
+				
+			</div>
+			<div class="smallfont">ALL NEW MEMBERS MUST READ THIS SECTION BEFORE POSTING!! 
+Our mods and Admins are trigger happy when it comes to people breaking the simplest rules because of their disregard for reading the rules first.</div>
+			
+			
+			</td>
+		</tr>
+		</tbody></table>
+
+		</td>
+		<td class="alt2">Never</td>
+		<td class="alt1">0</td>
+		<td class="alt2">0</td>
+		
+	</tr>
+
+
+</tbody>
+
+
+
+<tbody>
+
+	<tr>
+		<td class="tcat" colspan="5">
+			
+			<a style="float:right" href="#top" onclick="return toggle_collapse('forumbit_28')"><img id="collapseimg_forumbit_28" src="images/buttons/collapse_tcat.png" alt="" border="0"></a>
+			
+			<a href="http://www.wickedfire.com/main-section/?s=26156d5e4e22028545939de26621c553">Main Section</a>
+			
+			
+		</td>
+	</tr>
+
+</tbody>
+
+
+
+<tbody id="collapseobj_forumbit_28" style="">
+
+<tr align="center">
+	<td class="alt2"><img src="images/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_1"></td>
+	<td class="alt1Active" align="left" id="f1">
+		<div>
+			<a href="http://www.wickedfire.com/shooting-the-shit/?s=26156d5e4e22028545939de26621c553"><strong>Shooting The Shit</strong></a>
+			<span class="smallfont">(79 Viewing)</span>
+		</div>
+		<div class="smallfont">Anything goes, seriously. Come meet and network with your peers, it's a fun way to take a break out of your busy day of posting at other boring forums.</div>
+		
+		<div class="smallfont" style="margin-top:6px"><strong>Sub-Forums</strong>: <table width="100%" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr valign="top"> <td width="100%"><img class="inlineimg" src="images/statusicon/subforum_old.gif" alt="" border="0" id="forum_statusicon_77"> <a href="http://www.wickedfire.com/nudesftw/?s=26156d5e4e22028545939de26621c553">NUDESFTW</a></td><td>&nbsp;</td></tr></tbody></table></div>
+	</td>
+	<td class="alt2">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/icons/help.gif" alt="Help" border="0" title="Help">
+		
+		<a href="http://www.wickedfire.com/shooting-the-shit/185352-possible-recive-big-amout-money-paypal-without-problem-new-post.html?s=26156d5e4e22028545939de26621c553" style="white-space:nowrap" title="Go to first unread post in thread 'Is possible recive big amout of money in paypal without problem'"><strong>Is possible recive big amout...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="http://www.wickedfire.com/member.php?find=lastposter&amp;f=1&amp;s=26156d5e4e22028545939de26621c553" rel="nofollow">teguh123</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Today <span class="time">12:07 AM</span>
+		<a href="http://www.wickedfire.com/shooting-the-shit/185352-possible-recive-big-amout-money-paypal-without-problem-post2269561.html?s=26156d5e4e22028545939de26621c553#post2269561"><img class="inlineimg" src="images/buttons/lastpost.png" alt="Go to last post" border="0" title="Go to last post"></a>
+	</div>
+</div>
+</td>
+	<td class="alt1">42,894</td>
+	<td class="alt2">931,542</td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2"><img src="images/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_81"></td>
+	<td class="alt1Active" align="left" id="f81">
+		<div>
+			<a href="http://www.wickedfire.com/startups-product-development-business-strategy/?s=26156d5e4e22028545939de26621c553"><strong>Startups, Product Development, Business Strategy</strong></a>
+			
+		</div>
+		<div class="smallfont">Think true entrepreneurship &amp; business creation.  Discuss funding, licensing, manufacturing, importing, sourcing, customer service, etc.</div>
+		
+		
+	</td>
+	<td class="alt2">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/icons/question.gif" alt="Question" border="0" title="Question">
+		
+		<a href="http://www.wickedfire.com/startups-product-development-business-strategy/184192-best-way-build-mail-list-existing-brand-new-post.html?s=26156d5e4e22028545939de26621c553" style="white-space:nowrap" title="Go to first unread post in thread 'Best way to build mail list for existing brand'"><strong>Best way to build mail list...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="http://www.wickedfire.com/member.php?find=lastposter&amp;f=81&amp;s=26156d5e4e22028545939de26621c553" rel="nofollow">vladthegod</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		08-12-2015 <span class="time">12:06 PM</span>
+		<a href="http://www.wickedfire.com/startups-product-development-business-strategy/184192-best-way-build-mail-list-existing-brand-post2256729.html?s=26156d5e4e22028545939de26621c553#post2256729"><img class="inlineimg" src="images/buttons/lastpost.png" alt="Go to last post" border="0" title="Go to last post"></a>
+	</div>
+</div>
+</td>
+	<td class="alt1">46</td>
+	<td class="alt2">504</td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2"><img src="images/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_2"></td>
+	<td class="alt1Active" align="left" id="f2">
+		<div>
+			<a href="http://www.wickedfire.com/affiliate-marketing/?s=26156d5e4e22028545939de26621c553"><strong>Affiliate Marketing</strong></a>
+			<span class="smallfont">(18 Viewing)</span>
+		</div>
+		<div class="smallfont">Think cash registers making sales all day long. This is the place where people come to discuss programs, networks, and anything else in the Affiliate/Publisher game.</div>
+		
+		<div class="smallfont" style="margin-top:6px"><strong>Sub-Forums</strong>: <table width="100%" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr valign="top"> <td width="100%"><img class="inlineimg" src="images/statusicon/subforum_old.gif" alt="" border="0" id="forum_statusicon_69"> <a href="http://www.wickedfire.com/products-and-merchants/?s=26156d5e4e22028545939de26621c553">Products &amp; Merchants</a></td><td>&nbsp;</td></tr></tbody></table></div>
+	</td>
+	<td class="alt2">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/icons/mustread.gif" alt="Mustread" border="0" title="Mustread">
+		
+		<a href="http://www.wickedfire.com/affiliate-marketing/185414-google-acc-facebook-acc-new-post.html?s=26156d5e4e22028545939de26621c553" style="white-space:nowrap" title="Go to first unread post in thread 'Google acc and Facebook acc'"><strong>Google acc and Facebook acc</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="http://www.wickedfire.com/member.php?find=lastposter&amp;f=2&amp;s=26156d5e4e22028545939de26621c553" rel="nofollow">moon light</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Today <span class="time">01:39 PM</span>
+		<a href="http://www.wickedfire.com/affiliate-marketing/185414-google-acc-facebook-acc-post2269563.html?s=26156d5e4e22028545939de26621c553#post2269563"><img class="inlineimg" src="images/buttons/lastpost.png" alt="Go to last post" border="0" title="Go to last post"></a>
+	</div>
+</div>
+</td>
+	<td class="alt1">18,349</td>
+	<td class="alt2">265,953</td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2"><img src="images/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_76"></td>
+	<td class="alt1Active" align="left" id="f76">
+		<div>
+			<a href="http://www.wickedfire.com/enlightened-members/?s=26156d5e4e22028545939de26621c553"><strong>Enlightened Members</strong></a>
+			<span class="smallfont">(1 Viewing)</span>
+		</div>
+		<div class="smallfont">Good Advice and Enlightenment. No Bammer Threads!</div>
+		
+		<div class="smallfont" style="margin-top:6px"><strong>Sub-Forums</strong>: <table width="100%" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr valign="top"> <td width="100%"><img class="inlineimg" src="images/statusicon/subforum_old.gif" alt="" border="0" id="forum_statusicon_84"> <a href="http://www.wickedfire.com/insider-information/?s=26156d5e4e22028545939de26621c553">Insider Information</a></td><td>&nbsp;</td></tr></tbody></table></div>
+	</td>
+	<td class="alt2">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/icons/wfexclusive.gif" alt="Wfexclusive" border="0" title="Wfexclusive">
+		
+		<a href="http://www.wickedfire.com/insider-information/184349-outting-networks-whos-really-fucking-whom-who-fuck-new-post.html?s=26156d5e4e22028545939de26621c553" style="white-space:nowrap" title="Go to first unread post in thread 'Outting The Networks - Who's Really Fucking Whom? (or is it who? fuck it)'"><strong>Outting The Networks - Who's...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="http://www.wickedfire.com/member.php?find=lastposter&amp;f=84&amp;s=26156d5e4e22028545939de26621c553" rel="nofollow">potentialeight</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		02-04-2016 <span class="time">04:59 PM</span>
+		<a href="http://www.wickedfire.com/insider-information/184349-outting-networks-whos-really-fucking-whom-who-fuck-post2264452.html?s=26156d5e4e22028545939de26621c553#post2264452"><img class="inlineimg" src="images/buttons/lastpost.png" alt="Go to last post" border="0" title="Go to last post"></a>
+	</div>
+</div>
+</td>
+	<td class="alt1">79</td>
+	<td class="alt2">9,919</td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2"><img src="images/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_3"></td>
+	<td class="alt1Active" align="left" id="f3">
+		<div>
+			<a href="http://www.wickedfire.com/traffic-and-content/?s=26156d5e4e22028545939de26621c553"><strong>Traffic &amp; Content</strong></a>
+			<span class="smallfont">(1 Viewing)</span>
+		</div>
+		<div class="smallfont">Discussions about SEO, SEM, Newsletters, Blackhat, Link Building, General Promotions, Content and all other things that surround traffic are found in here.</div>
+		
+		
+	</td>
+	<td class="alt2">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/icons/tools.gif" alt="Tools" border="0" title="Tools">
+		
+		<a href="http://www.wickedfire.com/traffic-and-content/184108-my-twitter-secret-weapon-new-post.html?s=26156d5e4e22028545939de26621c553" style="white-space:nowrap" title="Go to first unread post in thread 'My Twitter Secret Weapon'"><strong>My Twitter Secret Weapon</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="http://www.wickedfire.com/member.php?find=lastposter&amp;f=3&amp;s=26156d5e4e22028545939de26621c553" rel="nofollow">lunaraurora</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		09-05-2016 <span class="time">10:46 AM</span>
+		<a href="http://www.wickedfire.com/traffic-and-content/184108-my-twitter-secret-weapon-post2268387.html?s=26156d5e4e22028545939de26621c553#post2268387"><img class="inlineimg" src="images/buttons/lastpost.png" alt="Go to last post" border="0" title="Go to last post"></a>
+	</div>
+</div>
+</td>
+	<td class="alt1">11,715</td>
+	<td class="alt2">145,985</td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2"><img src="images/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_13"></td>
+	<td class="alt1Active" align="left" id="f13">
+		<div>
+			<a href="http://www.wickedfire.com/the-art-of-mailing/?s=26156d5e4e22028545939de26621c553"><strong>The Art Of Mailing</strong></a>
+			
+		</div>
+		<div class="smallfont">Finally you high volume email deployers can have a place to congregate, share your ideas, tips, sources and practices on how to get people to buy your "clitorios" products. This is for CAN-SPAM compliant mailers only.</div>
+		
+		
+	</td>
+	<td class="alt2">Private</td>
+	<td class="alt1">2,766</td>
+	<td class="alt2">22,759</td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2"><img src="images/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_5"></td>
+	<td class="alt1Active" align="left" id="f5">
+		<div>
+			<a href="http://www.wickedfire.com/design-development-and-programming/?s=26156d5e4e22028545939de26621c553"><strong>Design, Development &amp; Programming</strong></a>
+			<span class="smallfont">(13 Viewing)</span>
+		</div>
+		<div class="smallfont">You guys may be the nerds of the industry, but without your incredible techniques, no one would be able to operate anything. Yes, root is god.</div>
+		
+		<div class="smallfont" style="margin-top:6px"><strong>Sub-Forums</strong>: <table width="100%" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr valign="top"> <td width="100%"><img class="inlineimg" src="images/statusicon/subforum_old.gif" alt="" border="0" id="forum_statusicon_70"> <a href="http://www.wickedfire.com/automation/?s=26156d5e4e22028545939de26621c553">Automation</a></td><td>&nbsp;</td></tr></tbody></table></div>
+	</td>
+	<td class="alt2">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/icons/interesting.gif" alt="Interesting" border="0" title="Interesting">
+		
+		<a href="http://www.wickedfire.com/design-development-and-programming/185420-google-acc-facebook-acc-new-post.html?s=26156d5e4e22028545939de26621c553" style="white-space:nowrap" title="Go to first unread post in thread 'Google acc and Facebook acc'"><strong>Google acc and Facebook acc</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="http://www.wickedfire.com/member.php?find=lastposter&amp;f=5&amp;s=26156d5e4e22028545939de26621c553" rel="nofollow">moon light</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Today <span class="time">01:48 PM</span>
+		<a href="http://www.wickedfire.com/design-development-and-programming/185420-google-acc-facebook-acc-post2269564.html?s=26156d5e4e22028545939de26621c553#post2269564"><img class="inlineimg" src="images/buttons/lastpost.png" alt="Go to last post" border="0" title="Go to last post"></a>
+	</div>
+</div>
+</td>
+	<td class="alt1">6,340</td>
+	<td class="alt2">44,089</td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2"><img src="images/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_6"></td>
+	<td class="alt1Active" align="left" id="f6">
+		<div>
+			<a href="http://www.wickedfire.com/hosting-and-domains/?s=26156d5e4e22028545939de26621c553"><strong>Hosting &amp; Domains</strong></a>
+			<span class="smallfont">(6 Viewing)</span>
+		</div>
+		<div class="smallfont">Are you obsessed with buying and flipping domains, or going out and finding the best hosting solutions out there? Sorry to say, there is no cure for your addiction, but you can meet others who are just like you. No need for group meetings here.</div>
+		
+		<div class="smallfont" style="margin-top:6px"><strong>Sub-Forums</strong>: <table width="100%" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr valign="top"> <td width="100%"><img class="inlineimg" src="images/statusicon/subforum_old.gif" alt="" border="0" id="forum_statusicon_34"> <a href="http://www.wickedfire.com/domaining-tips-and-guides/?s=26156d5e4e22028545939de26621c553">Domaining Tips and Guides</a></td></tr><tr><td width="100%"> <img class="inlineimg" src="images/statusicon/subforum_old.gif" alt="" border="0" id="forum_statusicon_38"> <a href="http://www.wickedfire.com/domain-appraisals/?s=26156d5e4e22028545939de26621c553">Domain Appraisals</a></td><td>&nbsp;</td></tr></tbody></table></div>
+	</td>
+	<td class="alt2">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/icons/checkthisout.gif" alt="Checkthisout" border="0" title="Checkthisout">
+		
+		<a href="http://www.wickedfire.com/hosting-and-domains/184189-best-domain-registar-new-post.html?s=26156d5e4e22028545939de26621c553" style="white-space:nowrap" title="Go to first unread post in thread 'Best domain registar'"><strong>Best domain registar</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="http://www.wickedfire.com/member.php?find=lastposter&amp;f=6&amp;s=26156d5e4e22028545939de26621c553" rel="nofollow">ShortGuyzRule</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		11-09-2016 <span class="time">02:48 AM</span>
+		<a href="http://www.wickedfire.com/hosting-and-domains/184189-best-domain-registar-post2269450.html?s=26156d5e4e22028545939de26621c553#post2269450"><img class="inlineimg" src="images/buttons/lastpost.png" alt="Go to last post" border="0" title="Go to last post"></a>
+	</div>
+</div>
+</td>
+	<td class="alt1">3,133</td>
+	<td class="alt2">23,843</td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2"><img src="images/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_79"></td>
+	<td class="alt1Active" align="left" id="f79">
+		<div>
+			<a href="http://www.wickedfire.com/sell-buy-and-trade-area/?s=26156d5e4e22028545939de26621c553"><strong>Sell, Buy &amp; Trade Area</strong></a>
+			<span class="smallfont">(91 Viewing)</span>
+		</div>
+		<div class="smallfont">Think of this place as the stock market. Loud, bustling, and tons of angry people demanding all sorts of things, using words your mother would kill you for saying. Keep it legal and realistic, because you'll be banned if we catch you scamming or cheating.</div>
+		
+		<div class="smallfont" style="margin-top:6px"><strong>Sub-Forums</strong>: <table width="100%" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr valign="top"> <td width="100%"><img class="inlineimg" src="images/statusicon/subforum_old.gif" alt="" border="0" id="forum_statusicon_64"> <a href="http://www.wickedfire.com/content/?s=26156d5e4e22028545939de26621c553">Content</a></td></tr><tr><td width="100%"> <img class="inlineimg" src="images/statusicon/subforum_old.gif" alt="" border="0" id="forum_statusicon_65"> <a href="http://www.wickedfire.com/links-and-seo/?s=26156d5e4e22028545939de26621c553">Links &amp; SEO</a></td></tr><tr><td width="100%"> <img class="inlineimg" src="images/statusicon/subforum_old.gif" alt="" border="0" id="forum_statusicon_66"> <a href="http://www.wickedfire.com/design-and-development/?s=26156d5e4e22028545939de26621c553">Design &amp; Development</a></td></tr><tr><td width="100%"> <img class="inlineimg" src="images/statusicon/subforum_old.gif" alt="" border="0" id="forum_statusicon_7"> <a href="http://www.wickedfire.com/misc-products-software-services/?s=26156d5e4e22028545939de26621c553">Misc. Products/ Software/ Services</a></td></tr><tr><td width="100%"> <img class="inlineimg" src="images/statusicon/subforum_old.gif" alt="" border="0" id="forum_statusicon_78"> <a href="http://www.wickedfire.com/data-sales-email-zip-phone-etc-/?s=26156d5e4e22028545939de26621c553">Data Sales - Email/Zip/Phone/etc.</a></td><td>&nbsp;</td></tr></tbody></table></div>
+	</td>
+	<td class="alt2">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/icons/fuckyeah.gif" alt="Fuckyeah" border="0" title="Fuckyeah">
+		
+		<a href="http://www.wickedfire.com/links-and-seo/185417-best-buy-weekly-deals-forbes-just-x99-new-post.html?s=26156d5e4e22028545939de26621c553" style="white-space:nowrap" title="Go to first unread post in thread 'Best Buy Weekly Deals - Forbes at Just $x99'"><strong>Best Buy Weekly Deals -...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="http://www.wickedfire.com/member.php?find=lastposter&amp;f=65&amp;s=26156d5e4e22028545939de26621c553" rel="nofollow">DexSmart</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Yesterday <span class="time">07:22 AM</span>
+		<a href="http://www.wickedfire.com/links-and-seo/185417-best-buy-weekly-deals-forbes-just-x99-post2269549.html?s=26156d5e4e22028545939de26621c553#post2269549"><img class="inlineimg" src="images/buttons/lastpost.png" alt="Go to last post" border="0" title="Go to last post"></a>
+	</div>
+</div>
+</td>
+	<td class="alt1">35,720</td>
+	<td class="alt2">545,583</td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2"><img src="images/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_15"></td>
+	<td class="alt1Active" align="left" id="f15">
+		<div>
+			<a href="http://www.wickedfire.com/education-center/?s=26156d5e4e22028545939de26621c553"><strong>Education Center</strong></a>
+			
+		</div>
+		<div class="smallfont">Here's where we store all of our case studies, both live and finished. Use this section to gain a better understanding about the industry. You can learn a lot.</div>
+		
+		
+	</td>
+	<td class="alt2">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/icons/shamelessplug.gif" alt="Shamelessplug" border="0" title="Shamelessplug">
+		
+		<a href="http://www.wickedfire.com/education-center/181348-motivational-journal-breaking-habits-journey-get-life-new-post.html?s=26156d5e4e22028545939de26621c553" style="white-space:nowrap" title="Go to first unread post in thread 'Motivational journal - breaking habits and journey to &quot;get a life&quot;'"><strong>Motivational journal -...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="http://www.wickedfire.com/member.php?find=lastposter&amp;f=15&amp;s=26156d5e4e22028545939de26621c553" rel="nofollow">Zennitec</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		02-05-2016 <span class="time">12:51 PM</span>
+		<a href="http://www.wickedfire.com/education-center/181348-motivational-journal-breaking-habits-journey-get-life-post2264484.html?s=26156d5e4e22028545939de26621c553#post2264484"><img class="inlineimg" src="images/buttons/lastpost.png" alt="Go to last post" border="0" title="Go to last post"></a>
+	</div>
+</div>
+</td>
+	<td class="alt1">355</td>
+	<td class="alt2">6,021</td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2"><img src="images/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_8"></td>
+	<td class="alt1Active" align="left" id="f8">
+		<div>
+			<a href="http://www.wickedfire.com/industry-news/?s=26156d5e4e22028545939de26621c553"><strong>Industry News</strong></a>
+			<span class="smallfont">(5 Viewing)</span>
+		</div>
+		<div class="smallfont">We are the first to have streaming news feeds where you can get content for your blogs about reported news stories directly effecting the webmaster industry.</div>
+		
+		
+	</td>
+	<td class="alt2">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/icons/seo.gif" alt="Seo" border="0" title="Seo">
+		
+		<a href="http://www.wickedfire.com/industry-news/153612-google-penalize-over-seod-sites-new-post.html?s=26156d5e4e22028545939de26621c553" style="white-space:nowrap" title="Go to first unread post in thread 'Google to Penalize Over-SEO'd Sites'"><strong>Google to Penalize Over-SEO'd...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="http://www.wickedfire.com/member.php?find=lastposter&amp;f=8&amp;s=26156d5e4e22028545939de26621c553" rel="nofollow">anhdung1511</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		11-09-2016 <span class="time">11:39 PM</span>
+		<a href="http://www.wickedfire.com/industry-news/153612-google-penalize-over-seod-sites-post2269478.html?s=26156d5e4e22028545939de26621c553#post2269478"><img class="inlineimg" src="images/buttons/lastpost.png" alt="Go to last post" border="0" title="Go to last post"></a>
+	</div>
+</div>
+</td>
+	<td class="alt1">708</td>
+	<td class="alt2">7,529</td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2"><img src="images/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_57"></td>
+	<td class="alt1Active" align="left" id="f57">
+		<div>
+			<a href="http://www.wickedfire.com/affiliate-managers/?s=26156d5e4e22028545939de26621c553"><strong>Affiliate Managers</strong></a>
+			
+		</div>
+		<div class="smallfont">Are you an affiliate manager? This is the place to talk shop and discuss business tactics. Only affiliate managers are allowed to view this forum.</div>
+		
+		
+	</td>
+	<td class="alt2">Private</td>
+	<td class="alt1">62</td>
+	<td class="alt2">326</td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2"><img src="images/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_11"></td>
+	<td class="alt1Active" align="left" id="f11">
+		<div>
+			<a href="http://www.wickedfire.com/newbie-questions/?s=26156d5e4e22028545939de26621c553"><strong>Newbie Questions</strong></a>
+			<span class="smallfont">(15 Viewing)</span>
+		</div>
+		<div class="smallfont">New to the whole making money online and developing your own sites thing? Post your questions here so that seasoned members can answer your questions. Please keep your questions out of the other categories. We know you're a newbie, but there's no reason to be annoying.</div>
+		
+		
+	</td>
+	<td class="alt2">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/icons/question.gif" alt="Question" border="0" title="Question">
+		
+		<a href="http://www.wickedfire.com/newbie-questions/185184-facebook-not-backlink-new-post.html?s=26156d5e4e22028545939de26621c553" style="white-space:nowrap" title="Go to first unread post in thread 'Facebook not a backlink?'"><strong>Facebook not a backlink?</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="http://www.wickedfire.com/member.php?find=lastposter&amp;f=11&amp;s=26156d5e4e22028545939de26621c553" rel="nofollow">Intuz</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		11-08-2016 <span class="time">05:05 AM</span>
+		<a href="http://www.wickedfire.com/newbie-questions/185184-facebook-not-backlink-post2269438.html?s=26156d5e4e22028545939de26621c553#post2269438"><img class="inlineimg" src="images/buttons/lastpost.png" alt="Go to last post" border="0" title="Go to last post"></a>
+	</div>
+</div>
+</td>
+	<td class="alt1">9,092</td>
+	<td class="alt2">78,491</td>
+	
+</tr>
+
+
+</tbody>
+
+
+<tbody>
+
+	<tr>
+		<td class="tcat" colspan="5">
+			
+			<a style="float:right" href="#top" onclick="return toggle_collapse('forumbit_29')"><img id="collapseimg_forumbit_29" src="images/buttons/collapse_tcat.png" alt="" border="0"></a>
+			
+			<a href="http://www.wickedfire.com/other-stuff/?s=26156d5e4e22028545939de26621c553">Other Stuff</a>
+			
+			
+		</td>
+	</tr>
+
+</tbody>
+
+
+
+<tbody id="collapseobj_forumbit_29" style="">
+
+<tr align="center">
+	<td class="alt2"><img src="images/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_10"></td>
+	<td class="alt1Active" align="left" id="f10">
+		<div>
+			<a href="http://www.wickedfire.com/suggestion-box/?s=26156d5e4e22028545939de26621c553"><strong>Suggestion Box</strong></a>
+			
+		</div>
+		<div class="smallfont">Have feedback on how to make the forum better? Well, chances are pretty good we won't read it, because this is just here for show to pretend that we "care". But maybe by some chance one of our mods will be bored enough, look at it, and use the idea.</div>
+		
+		
+	</td>
+	<td class="alt2">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/icons/help.gif" alt="Help" border="0" title="Help">
+		
+		<a href="http://www.wickedfire.com/suggestion-box/184833-bump-old-closed-sales-thread-new-post.html?s=26156d5e4e22028545939de26621c553" style="white-space:nowrap" title="Go to first unread post in thread 'bump an old closed sales thread?'"><strong>bump an old closed sales...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="http://www.wickedfire.com/member.php?find=lastposter&amp;f=10&amp;s=26156d5e4e22028545939de26621c553" rel="nofollow">evgenktulu</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		02-11-2016 <span class="time">04:16 AM</span>
+		<a href="http://www.wickedfire.com/suggestion-box/184833-bump-old-closed-sales-thread-post2264639.html?s=26156d5e4e22028545939de26621c553#post2264639"><img class="inlineimg" src="images/buttons/lastpost.png" alt="Go to last post" border="0" title="Go to last post"></a>
+	</div>
+</div>
+</td>
+	<td class="alt1">514</td>
+	<td class="alt2">3,467</td>
+	
+</tr>
+
+
+</tbody>
+
+
+<tbody>
+	<tr>
+		<td class="tfoot" align="center" colspan="5"><div class="smallfont"><strong>
+			<a href="http://www.wickedfire.com/forumdisplay.php?do=markread&amp;s=26156d5e4e22028545939de26621c553" rel="nofollow">Mark Forums Read</a>
+			&nbsp; &nbsp;
+			<a href="http://www.wickedfire.com/showgroups.php?s=26156d5e4e22028545939de26621c553">View Forum Leaders</a>
+		</strong></div></td>
+	</tr>
+</tbody>
+</table>
+<script type="text/javascript" src="clientscript/vbulletin_read_marker.js?v=387"></script>
+<script type="text/javascript">
+<!--
+vbphrase['doubleclick_forum_markread'] = "Double-click this icon to mark this forum and its contents as read";
+init_forum_readmarker_system();
+//-->
+</script>
+
+<!-- /Tabbed Forum Home – END Tab 1 Content Layout -->
+
+<!-- /main -->
+
+
+
+<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+ <tbody><tr>
+        <td class="thead" align="left">Sponsored Ad</td>
+    </tr>
+    <tr> 
+</tr><tr>
+        <td class="alt1">
+<div style="clear: both"></div>
+    <div class="ad_container">
+<!-- BuySellAds Zone Code -->
+<div id="bsap_1299048" class="bsap bsap_1299048" data-serve="CASI62T">
+<style type="text/css">
+div.bsap_1299048{width:100%;display:block;}div.bsap_1299048 a{width:728px;}div.bsap_1299048 a img{padding:0;}div.bsap_1299048 a em{font-style:normal;}div.bsap_1299048 a{display:block;font-size:11px;color:#888;font-family:verdana,sans-serif;margin:0;text-align:center;text-decoration:none;overflow:hidden;float:left;}
+div.bsap_1299048 img{border:0;clear:right;}
+div.bsap_1299048 a.adhere{color:#666;font-weight:bold;font-size:12px;border:1px solid #ccc;background:#e7e7e7;text-align:center;}
+div.bsap_1299048 a.adhere:hover{border:1px solid #999;background:#ddd;color:#333;}
+div.bsap_1299048 iframe{display:block;font-size:11px;color:#888;font-family:verdana,sans-serif;margin:0;text-align:center;text-decoration:none;overflow:hidden;float:left;}div.bsap_1299048 a{line-height:100%;}div.bsap_1299048 a.adhere{width:728px;height:90px;line-height:720%;}html>body div.bsap_1299048 a.adhere{width:726px;height:88px;}div.bsap_1299048 img.s{height:0;width:0;}div.bsap_1299048{line-height:9px;}div.bsap_1299048 .bsap_adhere2,div.bsap_1299048 iframe{float:left;}div.bsap_1299048 .bsap_adhere2 a{height:90px;width:20px;background:url(http:\/\/s3.buysellads.com\/ac\/ah20x90_1.gif) no-repeat 0 0;text-indent:-9999px;}
+</style>
+<a href="//srv.buysellads.com/ads/click/x/GTND423UF67I65Q7F6S4YKQWCAAI65QWCVSIKZ3JCESILK7MCV7DK23KC6BD55QICK7IKK3EHJNCLSIZ" class="ad0 odd " title="Stop Paying for Nutra and Skin Products Up Front - Contact Fulfillment.com for more details" id="bsa_7088832" target="_blank" rel="nofollow">
+<img src="//s3.buysellads.com/1299048/338518-1477058578.gif" width="728" height="90" alt=""></a>
+<script type="text/javascript" id="auto_2" class="ignoreme"> if (typeof(BSACallback) !== 'undefined') BSACallback(); </script></div>
+<!-- End BuySellAds Zone Code --> 
+</div>
+<div style="clear: both"></div>
+</td>
+    </tr>  
+ <tr>
+        <td class="thead" align="left">Trusted Partners</td>
+    </tr>
+    <tr>
+        <td class="alt1" align="center">
+ <center>
+
+
+
+<a href="http://www.wickedfire.com/affiliatesummit/" target="_blank"><img src="http://www.wickedfire.com/affs.png" alt="Affiliate Summit" width="94" height="54" border="0" title="Affiliate Summit"></a>
+
+<a href="http://www.wickedfire.com/adtech/" target="_blank"><img src="http://www.wickedfire.com/adtech.png" alt="Affiliate Summit" width="94" height="54" border="0" title="Affiliate Summit"></a>
+
+<a href="http://www.wickedfire.com/leadscon/" target="_blank"><img src="http://www.wickedfire.com/leadscon.png" alt="Affiliate Summit" width="94" height="54" border="0" title="Affiliate Summit"></a>
+
+
+
+
+
+
+</center>
+
+        </td>
+    </tr>
+    </tbody></table>
+<br>
+<br>
+
+<br>
+
+<br>
+
+<!-- what's going on box -->
+		<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+		<thead>
+			<tr valign="top">
+				<td class="tcat" align="left" colspan="2"><a name="cyb_stats" style="float:right" href="#top" onclick="return toggle_collapse('cyb_fh_stats')"><img id="collapseimg_cyb_fh_stats" src="images/buttons/collapse_tcat.png" alt="" border="0"></a><span id="cybstatsoptions_o">Top 5 Stats </span>
+					
+				</td>
+			</tr>
+		</thead>
+		<tbody id="collapseobj_cyb_fh_stats" style="">
+		
+			<tr valign="top">
+				
+				<td class="thead" align="left" width="25%" nowrap="nowrap"><span id="cybstatsoptions_u"><span id="cybtopstats_rtitle_area">Top Thread Starters </span></span>
+					
+				</td>
+				
+				<td class="thead" align="left" width="50%">Latest Posts</td>
+				
+			</tr>
+			<tr valign="top">
+				
+				<td class="alt2" width="25%" id="cybstats_udiv" style="padding:0px;margin:0px;border-width:0px;"><table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+	<tbody><tr class="alt1" valign="top" onmouseover="this.className='alt2'" onmouseout="this.className='alt1'">
+		<td class="alt2" width="1%" align="center"><span class="smallfont">1</span></td>
+		<td align="left" width="50%" nowrap="nowrap" class="smallfont" title="Jon"><a href="http://www.wickedfire.com/members/jon.html">Jon</a></td>
+		<td align="right" nowrap="nowrap" class="smallfont" title="Threads" "=""><a rel="nofollow" href="http://www.wickedfire.com/search.php?do=finduser&amp;u=1&amp;starteronly=1">779</a></td>
+	</tr>
+	
+	<tr class="alt1" valign="top" onmouseover="this.className='alt2'" onmouseout="this.className='alt1'">
+		<td class="alt2" width="1%" align="center"><span class="smallfont">2</span></td>
+		<td align="left" width="50%" nowrap="nowrap" class="smallfont" title="Mike"><a href="http://www.wickedfire.com/members/mike.html">Mike</a></td>
+		<td align="right" nowrap="nowrap" class="smallfont" title="Threads" "=""><a rel="nofollow" href="http://www.wickedfire.com/search.php?do=finduser&amp;u=636&amp;starteronly=1">702</a></td>
+	</tr>
+	
+	<tr class="alt1" valign="top" onmouseover="this.className='alt2'" onmouseout="this.className='alt1'">
+		<td class="alt2" width="1%" align="center"><span class="smallfont">3</span></td>
+		<td align="left" width="50%" nowrap="nowrap" class="smallfont" title="guerilla"><a href="http://www.wickedfire.com/members/guerilla.html">guerilla</a></td>
+		<td align="right" nowrap="nowrap" class="smallfont" title="Threads" "=""><a rel="nofollow" href="http://www.wickedfire.com/search.php?do=finduser&amp;u=12252&amp;starteronly=1">544</a></td>
+	</tr>
+	
+	<tr class="alt1" valign="top" onmouseover="this.className='alt2'" onmouseout="this.className='alt1'">
+		<td class="alt2" width="1%" align="center"><span class="smallfont">4</span></td>
+		<td align="left" width="50%" nowrap="nowrap" class="smallfont" title="ly2 from WF"><a href="http://www.wickedfire.com/members/ly2-from-wf.html">ly2 from WF</a></td>
+		<td align="right" nowrap="nowrap" class="smallfont" title="Threads" "=""><a rel="nofollow" href="http://www.wickedfire.com/search.php?do=finduser&amp;u=51187&amp;starteronly=1">504</a></td>
+	</tr>
+	
+	<tr class="alt1" valign="top" onmouseover="this.className='alt2'" onmouseout="this.className='alt1'">
+		<td class="alt2" width="1%" align="center"><span class="smallfont">5</span></td>
+		<td align="left" width="50%" nowrap="nowrap" class="smallfont" title="papajohn56"><a href="http://www.wickedfire.com/members/papajohn56.html">papajohn56</a></td>
+		<td align="right" nowrap="nowrap" class="smallfont" title="Threads" "=""><a rel="nofollow" href="http://www.wickedfire.com/search.php?do=finduser&amp;u=25651&amp;starteronly=1">473</a></td>
+	</tr>
+	</tbody></table></td>
+				
+				<td class="alt2" width="50%" id="cybstats_lpdiv" style="padding:0px;margin:0px;border-width:0px;" rowspan="3"><table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+	<tbody><tr class="alt1" valign="top" onmouseover="this.className='alt2'" onmouseout="this.className='alt1'">
+		<td class="alt2" width="1%" align="center" valign="middle"><img border="0" alt="Old" src="images/statusicon/post_old.gif"></td>		
+		<td align="left" width="50%" nowrap="nowrap" class="smallfont" title="Google acc and Facebook acc"><a href="http://www.wickedfire.com/design-development-and-programming/185420-google-acc-facebook-acc.html">Google acc and Facebook acc</a></td>
+ 		
+		<td align="right" nowrap="nowrap" class="smallfont"><a href="http://www.wickedfire.com/members/moon-light.html" title="Posted By moon light">moon light</a>&nbsp;&nbsp;<a href="http://www.wickedfire.com/design-development-and-programming/185420-google-acc-facebook-acc-new-post.html" style="text-decoration:none;font-family:Arial;" title="Jump to first unread post in thread 'Google acc and Facebook acc'">►</a></td>
+		
+		
+		<td align="right" nowrap="nowrap" class="smallfont" title="Design, Development &amp; Programming"><a href="http://www.wickedfire.com/design-development-and-programming/">Design, Development &amp; Programming</a>&nbsp;</td>
+		
+	</tr>
+	
+	<tr class="alt1" valign="top" onmouseover="this.className='alt2'" onmouseout="this.className='alt1'">
+		<td class="alt2" width="1%" align="center" valign="middle"><img border="0" alt="Old" src="images/statusicon/post_old.gif"></td>		
+		<td align="left" width="50%" nowrap="nowrap" class="smallfont" title="Google acc and Facebook acc"><a href="http://www.wickedfire.com/affiliate-marketing/185414-google-acc-facebook-acc.html">Google acc and Facebook acc</a></td>
+ 		
+		<td align="right" nowrap="nowrap" class="smallfont"><a href="http://www.wickedfire.com/members/moon-light.html" title="Posted By moon light">moon light</a>&nbsp;&nbsp;<a href="http://www.wickedfire.com/affiliate-marketing/185414-google-acc-facebook-acc-new-post.html" style="text-decoration:none;font-family:Arial;" title="Jump to first unread post in thread 'Google acc and Facebook acc'">►</a></td>
+		
+		
+		<td align="right" nowrap="nowrap" class="smallfont" title="Affiliate Marketing"><a href="http://www.wickedfire.com/affiliate-marketing/">Affiliate Marketing</a>&nbsp;</td>
+		
+	</tr>
+	
+	<tr class="alt1" valign="top" onmouseover="this.className='alt2'" onmouseout="this.className='alt1'">
+		<td class="alt2" width="1%" align="center" valign="middle"><img border="0" alt="Old" src="images/statusicon/post_old.gif"></td>		
+		<td align="left" width="50%" nowrap="nowrap" class="smallfont" title="Email sending service?"><a href="http://www.wickedfire.com/affiliate-marketing/184908-email-sending-service.html">Email sending service?</a></td>
+ 		
+		<td align="right" nowrap="nowrap" class="smallfont"><a href="http://www.wickedfire.com/members/globaldom.html" title="Posted By GlobalDom">GlobalDom</a>&nbsp;&nbsp;<a href="http://www.wickedfire.com/affiliate-marketing/184908-email-sending-service-new-post.html" style="text-decoration:none;font-family:Arial;" title="Jump to first unread post in thread 'Email sending service?'">►</a></td>
+		
+		
+		<td align="right" nowrap="nowrap" class="smallfont" title="Affiliate Marketing"><a href="http://www.wickedfire.com/affiliate-marketing/">Affiliate Marketing</a>&nbsp;</td>
+		
+	</tr>
+	
+	<tr class="alt1" valign="top" onmouseover="this.className='alt2'" onmouseout="this.className='alt1'">
+		<td class="alt2" width="1%" align="center" valign="middle"><img border="0" alt="Old" src="images/statusicon/post_old.gif"></td>		
+		<td align="left" width="50%" nowrap="nowrap" class="smallfont" title="Is possible recive big amout of money in paypal without problem"><a href="http://www.wickedfire.com/shooting-the-shit/185352-possible-recive-big-amout-money-paypal-without-problem.html">Is possible recive big amout of money...</a></td>
+ 		
+		<td align="right" nowrap="nowrap" class="smallfont"><a href="http://www.wickedfire.com/members/teguh123.html" title="Posted By teguh123">teguh123</a>&nbsp;&nbsp;<a href="http://www.wickedfire.com/shooting-the-shit/185352-possible-recive-big-amout-money-paypal-without-problem-new-post.html" style="text-decoration:none;font-family:Arial;" title="Jump to first unread post in thread 'Is possible recive big amout of money in paypal without problem'">►</a></td>
+		
+		
+		<td align="right" nowrap="nowrap" class="smallfont" title="Shooting The Shit"><a href="http://www.wickedfire.com/shooting-the-shit/">Shooting The Shit</a>&nbsp;</td>
+		
+	</tr>
+	
+	<tr class="alt1" valign="top" onmouseover="this.className='alt2'" onmouseout="this.className='alt1'">
+		<td class="alt2" width="1%" align="center" valign="middle"><img border="0" alt="Old" src="images/statusicon/post_old.gif"></td>		
+		<td align="left" width="50%" nowrap="nowrap" class="smallfont" title="Google Web Designer"><a href="http://www.wickedfire.com/design-development-and-programming/182694-google-web-designer.html">Google Web Designer</a></td>
+ 		
+		<td align="right" nowrap="nowrap" class="smallfont"><a href="http://www.wickedfire.com/members/paulplatt.html" title="Posted By PaulPlatt">PaulPlatt</a>&nbsp;&nbsp;<a href="http://www.wickedfire.com/design-development-and-programming/182694-google-web-designer-new-post.html" style="text-decoration:none;font-family:Arial;" title="Jump to first unread post in thread 'Google Web Designer'">►</a></td>
+		
+		
+		<td align="right" nowrap="nowrap" class="smallfont" title="Design, Development &amp; Programming"><a href="http://www.wickedfire.com/design-development-and-programming/">Design, Development &amp; Programming</a>&nbsp;</td>
+		
+	</tr>
+	
+	<tr class="alt1" valign="top" onmouseover="this.className='alt2'" onmouseout="this.className='alt1'">
+		<td class="alt2" width="1%" align="center" valign="middle"><img border="0" alt="Old" src="images/statusicon/post_old.gif"></td>		
+		<td align="left" width="50%" nowrap="nowrap" class="smallfont" title="How to Get in Email Marketing Biz"><a href="http://www.wickedfire.com/the-art-of-mailing/8510-how-get-email-marketing-biz.html">How to Get in Email Marketing Biz</a></td>
+ 		
+		<td align="right" nowrap="nowrap" class="smallfont"><a href="http://www.wickedfire.com/members/paulplatt.html" title="Posted By PaulPlatt">PaulPlatt</a>&nbsp;&nbsp;<a href="http://www.wickedfire.com/the-art-of-mailing/8510-how-get-email-marketing-biz-new-post.html" style="text-decoration:none;font-family:Arial;" title="Jump to first unread post in thread 'How to Get in Email Marketing Biz'">►</a></td>
+		
+		
+		<td align="right" nowrap="nowrap" class="smallfont" title="The Art Of Mailing"><a href="http://www.wickedfire.com/the-art-of-mailing/">The Art Of Mailing</a>&nbsp;</td>
+		
+	</tr>
+	
+	<tr class="alt1" valign="top" onmouseover="this.className='alt2'" onmouseout="this.className='alt1'">
+		<td class="alt2" width="1%" align="center" valign="middle"><img border="0" alt="Old" src="images/statusicon/post_old.gif"></td>		
+		<td align="left" width="50%" nowrap="nowrap" class="smallfont" title="New restrictions for google feeds for mailing?"><a href="http://www.wickedfire.com/the-art-of-mailing/185419-new-restrictions-google-feeds-mailing.html">New restrictions for google feeds for...</a></td>
+ 		
+		<td align="right" nowrap="nowrap" class="smallfont"><a href="http://www.wickedfire.com/members/screamingeagle.html" title="Posted By screamingeagle">screamingeagle</a>&nbsp;&nbsp;<a href="http://www.wickedfire.com/the-art-of-mailing/185419-new-restrictions-google-feeds-mailing-new-post.html" style="text-decoration:none;font-family:Arial;" title="Jump to first unread post in thread 'New restrictions for google feeds for mailing?'">►</a></td>
+		
+		
+		<td align="right" nowrap="nowrap" class="smallfont" title="The Art Of Mailing"><a href="http://www.wickedfire.com/the-art-of-mailing/">The Art Of Mailing</a>&nbsp;</td>
+		
+	</tr>
+	
+	<tr class="alt1" valign="top" onmouseover="this.className='alt2'" onmouseout="this.className='alt1'">
+		<td class="alt2" width="1%" align="center" valign="middle"><img border="0" alt="Old" src="images/statusicon/post_old.gif"></td>		
+		<td align="left" width="50%" nowrap="nowrap" class="smallfont" title="Can we post direct affiliate link at adword or bingads?"><a href="http://www.wickedfire.com/shooting-the-shit/185327-can-we-post-direct-affiliate-link-adword-bingads.html">Can we post direct affiliate link at...</a></td>
+ 		
+		<td align="right" nowrap="nowrap" class="smallfont"><a href="http://www.wickedfire.com/members/vanillablueskyy.html" title="Posted By vanillablueskyy">vanillablueskyy</a>&nbsp;&nbsp;<a href="http://www.wickedfire.com/shooting-the-shit/185327-can-we-post-direct-affiliate-link-adword-bingads-new-post.html" style="text-decoration:none;font-family:Arial;" title="Jump to first unread post in thread 'Can we post direct affiliate link at adword or bingads?'">►</a></td>
+		
+		
+		<td align="right" nowrap="nowrap" class="smallfont" title="Shooting The Shit"><a href="http://www.wickedfire.com/shooting-the-shit/">Shooting The Shit</a>&nbsp;</td>
+		
+	</tr>
+	
+	<tr class="alt1" valign="top" onmouseover="this.className='alt2'" onmouseout="this.className='alt1'">
+		<td class="alt2" width="1%" align="center" valign="middle"><img border="0" alt="Old" src="images/statusicon/post_old.gif"></td>		
+		<td align="left" width="50%" nowrap="nowrap" class="smallfont" title="Just Another &quot;What Are You Listening To&quot; Thread"><a href="http://www.wickedfire.com/shooting-the-shit/185286-just-another-what-you-listening-thread.html">Just Another "What Are You Listening...</a></td>
+ 		
+		<td align="right" nowrap="nowrap" class="smallfont"><a href="http://www.wickedfire.com/members/vanillablueskyy.html" title="Posted By vanillablueskyy">vanillablueskyy</a>&nbsp;&nbsp;<a href="http://www.wickedfire.com/shooting-the-shit/185286-just-another-what-you-listening-thread-new-post.html" style="text-decoration:none;font-family:Arial;" title="Jump to first unread post in thread 'Just Another &quot;What Are You Listening To&quot; Thread'">►</a></td>
+		
+		
+		<td align="right" nowrap="nowrap" class="smallfont" title="Shooting The Shit"><a href="http://www.wickedfire.com/shooting-the-shit/">Shooting The Shit</a>&nbsp;</td>
+		
+	</tr>
+	
+	<tr class="alt1" valign="top" onmouseover="this.className='alt2'" onmouseout="this.className='alt1'">
+		<td class="alt2" width="1%" align="center" valign="middle"><img border="0" alt="Old" src="images/statusicon/post_old.gif"></td>		
+		<td align="left" width="50%" nowrap="nowrap" class="smallfont" title="Get to Know These 8 Mobile Campaign Performance Facts Right Now!"><a href="http://www.wickedfire.com/affiliate-marketing/185418-get-know-these-8-mobile-campaign-performance-facts-right-now.html">Get to Know These 8 Mobile Campaign...</a></td>
+ 		
+		<td align="right" nowrap="nowrap" class="smallfont"><a href="http://www.wickedfire.com/members/gibbsjoan85.html" title="Posted By gibbsjoan85">gibbsjoan85</a>&nbsp;&nbsp;<a href="http://www.wickedfire.com/affiliate-marketing/185418-get-know-these-8-mobile-campaign-performance-facts-right-now-new-post.html" style="text-decoration:none;font-family:Arial;" title="Jump to first unread post in thread 'Get to Know These 8 Mobile Campaign Performance Facts Right Now!'">►</a></td>
+		
+		
+		<td align="right" nowrap="nowrap" class="smallfont" title="Affiliate Marketing"><a href="http://www.wickedfire.com/affiliate-marketing/">Affiliate Marketing</a>&nbsp;</td>
+		
+	</tr>
+	
+	<tr class="alt1" valign="top" onmouseover="this.className='alt2'" onmouseout="this.className='alt1'">
+		<td class="alt2" width="1%" align="center" valign="middle"><img border="0" alt="Old" src="images/statusicon/post_old.gif"></td>		
+		<td align="left" width="50%" nowrap="nowrap" class="smallfont" title="How to track keywords"><a href="http://www.wickedfire.com/shooting-the-shit/185415-how-track-keywords.html">How to track keywords</a></td>
+ 		
+		<td align="right" nowrap="nowrap" class="smallfont"><a href="http://www.wickedfire.com/members/gibbsjoan85.html" title="Posted By gibbsjoan85">gibbsjoan85</a>&nbsp;&nbsp;<a href="http://www.wickedfire.com/shooting-the-shit/185415-how-track-keywords-new-post.html" style="text-decoration:none;font-family:Arial;" title="Jump to first unread post in thread 'How to track keywords'">►</a></td>
+		
+		
+		<td align="right" nowrap="nowrap" class="smallfont" title="Shooting The Shit"><a href="http://www.wickedfire.com/shooting-the-shit/">Shooting The Shit</a>&nbsp;</td>
+		
+	</tr>
+	</tbody></table></td>
+				
+			</tr>
+			<tr valign="top">
+				<td class="thead" align="left" width="25%" nowrap="nowrap"><span id="cybstatsoptions_f"><span id="cybtopstats_ltitle_area">Hottest Threads </span></span>
+					
+				</td>
+			</tr>
+			<tr valign="top">
+				<td class="alt2" width="25%" id="cybstats_fdiv" style="padding:0px;margin:0px;border-width:0px;"><table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+	<tbody><tr class="alt1" valign="top" onmouseover="this.className='alt2'" onmouseout="this.className='alt1'">
+		<td class="alt2" width="1%" align="center"><span class="smallfont">1</span></td>
+		<td align="left" width="50%" nowrap="nowrap" class="smallfont"><img border="0" alt="Old" src="images/statusicon/post_old.gif">&nbsp;<a href="http://www.wickedfire.com/shooting-the-shit/3651-postwhore-contest-every-500th-post-wins.html" title="*** Postwhore Contest - Every 500th Post Wins ***">*** Postwhore Contest - Every 500th...</a></td>
+		<td align="right" nowrap="nowrap" class="smallfont" title="Replies">10,091</td>
+	</tr>
+	
+	<tr class="alt1" valign="top" onmouseover="this.className='alt2'" onmouseout="this.className='alt1'">
+		<td class="alt2" width="1%" align="center"><span class="smallfont">2</span></td>
+		<td align="left" width="50%" nowrap="nowrap" class="smallfont"><img border="0" alt="Old" src="images/statusicon/post_old.gif">&nbsp;<a href="http://www.wickedfire.com/affiliate-marketing/50450-new-facebook-ads.html" title="NEW Facebook Ads">NEW Facebook Ads</a></td>
+		<td align="right" nowrap="nowrap" class="smallfont" title="Replies">8,781</td>
+	</tr>
+	
+	<tr class="alt1" valign="top" onmouseover="this.className='alt2'" onmouseout="this.className='alt1'">
+		<td class="alt2" width="1%" align="center"><span class="smallfont">3</span></td>
+		<td align="left" width="50%" nowrap="nowrap" class="smallfont"><img border="0" alt="Old" src="images/statusicon/post_old.gif">&nbsp;<a href="http://www.wickedfire.com/shooting-the-shit/4434-asw-postwhore-contest-3-a.html" title="*** ASW - Postwhore Contest #3!! ***">*** ASW - Postwhore Contest #3!! ***</a></td>
+		<td align="right" nowrap="nowrap" class="smallfont" title="Replies">6,680</td>
+	</tr>
+	
+	<tr class="alt1" valign="top" onmouseover="this.className='alt2'" onmouseout="this.className='alt1'">
+		<td class="alt2" width="1%" align="center"><span class="smallfont">4</span></td>
+		<td align="left" width="50%" nowrap="nowrap" class="smallfont"><img border="0" alt="Old" src="images/statusicon/post_old.gif">&nbsp;<a href="http://www.wickedfire.com/links-and-seo/88671-125-bookmarking-site-4-so-cheap-offer.html" title="125+ Bookmarking site in 4$ SO cheap Offer">125+ Bookmarking site in 4$ SO cheap...</a></td>
+		<td align="right" nowrap="nowrap" class="smallfont" title="Replies">3,881</td>
+	</tr>
+	
+	<tr class="alt1" valign="top" onmouseover="this.className='alt2'" onmouseout="this.className='alt1'">
+		<td class="alt2" width="1%" align="center"><span class="smallfont">5</span></td>
+		<td align="left" width="50%" nowrap="nowrap" class="smallfont"><img border="0" alt="Old" src="images/statusicon/post_old.gif">&nbsp;<a href="http://www.wickedfire.com/affiliate-marketing/19369-facebook-social-ads.html" title="Facebook Social Ads">Facebook Social Ads</a></td>
+		<td align="right" nowrap="nowrap" class="smallfont" title="Replies">3,671</td>
+	</tr>
+	</tbody></table></td>
+			</tr>
+		
+		</tbody>
+		
+	</table>
+
+	<script language="JavaScript" type="text/javascript">
+	<!--
+		
+
+		function Cas_getLPStats(rel)
+		{
+			
+			
+			if (rel=='reload')
+			{
+				document.getElementById("cybtopstats_lprel_area").style.display = "none";
+			}
+
+			Cas_AFStats_LP = new vB_AJAX_Handler(true);
+			Cas_AFStats_LP.onreadystatechange(Cas_updateStatsLP);
+			Cas_AFStats_LP.send('http://www.wickedfire.com/misc.php?show=latestposts&resultsnr=5');
+		}
+
+		function Cas_updateStatsLP()
+		{
+			if (Cas_AFStats_LP)
+			{
+				if (Cas_AFStats_LP.handler.readyState == 4 && Cas_AFStats_LP.handler.status == 200 && Cas_AFStats_LP.handler.responseText)
+				{
+					Cas_AFStats_LPDiv = fetch_object('cybstats_lpdiv');
+					Cas_AFStats_LPDiv.innerHTML = '<table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">' + Cas_AFStats_LP.handler.responseText + '</table>';
+				}
+			}
+			
+			setTimeout('document.getElementById("cybtopstats_lprel_area").style.display = "inline";', (30 * 1000));
+		}
+
+		function Cas_getStats(statid, secstat)
+		{
+			
+
+			if (statid!='onlyu')
+			{
+				Cas_AFStats_F = new vB_AJAX_Handler(true);
+				Cas_AFStats_F.cybcurr_f = statid;
+				Cas_AFStats_F.onreadystatechange(Cas_updateStats);
+				switch(statid)
+				{
+					case 'latestnews': Cas_AFStats_F.send('http://www.wickedfire.com/misc.php?show=latestnews&resultsnr=5'); break;
+					case 'mostviewedthreads': Cas_AFStats_F.send('http://www.wickedfire.com/misc.php?show=mostviewedthreads&resultsnr=5'); break;
+					case 'hottestthreads': Cas_AFStats_F.send('http://www.wickedfire.com/misc.php?show=hottestthreads&resultsnr=5'); break;
+					case 'hottestforums': Cas_AFStats_F.send('http://www.wickedfire.com/misc.php?show=hottestforums&resultsnr=5'); break;
+					case 'classifiedads': Cas_AFStats_F.send('http://www.wickedfire.com/misc.php?show=classifiedads&resultsnr=5'); break;
+					case 'latestblogs': Cas_AFStats_F.send('http://www.wickedfire.com/misc.php?show=latestblogs&resultsnr=5'); break;
+					case 'groupposts': Cas_AFStats_F.send('http://www.wickedfire.com/misc.php?show=groupposts&resultsnr=5'); break;
+					case 'badadmin': Cas_AFStats_F.send('http://www.wickedfire.com/misc.php?show=badadmin'); break;
+					default: Cas_AFStats_F.send('http://www.wickedfire.com/misc.php?show=hottestforums&resultsnr=5'); break;
+				}
+			}
+
+			if (secstat!='onlyf')
+			{
+				Cas_AFStats_U = new vB_AJAX_Handler(true);
+				Cas_AFStats_U.cybcurr_u = secstat;
+				Cas_AFStats_U.onreadystatechange(Cas_updateStats);
+				switch(secstat)
+				{
+					case 'newestmembers': Cas_AFStats_U.send('http://www.wickedfire.com/misc.php?show=newestmembers&resultsnr=5'); break;
+					case 'posters': Cas_AFStats_U.send('http://www.wickedfire.com/misc.php?show=posters&resultsnr=5'); break;
+					case 'threadstarters': Cas_AFStats_U.send('http://www.wickedfire.com/misc.php?show=threadstarters&resultsnr=5'); break;
+					case 'referrers': Cas_AFStats_U.send('http://www.wickedfire.com/misc.php?show=referrers&resultsnr=5'); break;
+					case 'reputations': Cas_AFStats_U.send('http://www.wickedfire.com/misc.php?show=reputations&resultsnr=5'); break;
+					case 'thanked': Cas_AFStats_U.send('http://www.wickedfire.com/misc.php?show=thanked&resultsnr=5'); break;
+					case 'infractions': Cas_AFStats_U.send('http://www.wickedfire.com/misc.php?show=infractions&resultsnr=5'); break;
+					case 'visitors': Cas_AFStats_U.send('http://www.wickedfire.com/misc.php?show=visitors&resultsnr=5'); break;
+					case 'groups': Cas_AFStats_U.send('http://www.wickedfire.com/misc.php?show=groups&resultsnr=5'); break;
+					case 'donations': Cas_AFStats_U.send('http://www.wickedfire.com/misc.php?show=donations&resultsnr=5'); break;
+					case 'badadmin': Cas_AFStats_U.send('http://www.wickedfire.com/misc.php?show=badadmin'); break;
+					default: Cas_AFStats_U.send('http://www.wickedfire.com/misc.php?show=newestmembers&resultsnr=5'); break;
+				}
+			}
+		}
+
+		function Cas_updateStats()
+		{
+			if (Cas_AFStats_F)
+			{
+				if (Cas_AFStats_F.handler.readyState == 4 && Cas_AFStats_F.handler.status == 200 && Cas_AFStats_F.handler.responseText)
+				{
+					Cas_AFStats_FDiv = fetch_object('cybstats_fdiv');
+					cybcurr_f = Cas_AFStats_F.cybcurr_f;
+					cybtarea_f = document.getElementById("cybtopstats_ltitle_area");
+					switch(cybcurr_f)
+					{
+						case 'latestnews': cybtarea_f.innerHTML = "Latest Forum News "; break;
+						case 'mostviewedthreads': cybtarea_f.innerHTML = "Most Viewed Threads "; break;
+						case 'hottestthreads': cybtarea_f.innerHTML = "Hottest Threads "; break;
+						case 'hottestforums': cybtarea_f.innerHTML = "Most Popular Forums "; break;
+						case 'classifiedads': cybtarea_f.innerHTML = "Latest Classified Ads "; break;
+						case 'latestblogs': cybtarea_f.innerHTML = "Latest Blog Entries "; break;
+						case 'groupposts': cybtarea_f.innerHTML = "Latest Group Posts"; break;
+						case 'badadmin': cybtarea_f.innerHTML = "Forum Stats"; break;
+						default: cybtarea_f.innerHTML = "Most Popular Forums "; break;
+					}
+					Cas_AFStats_FDiv.innerHTML = '<table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">' + Cas_AFStats_F.handler.responseText + '</table>';
+				}
+			}
+	
+			if (Cas_AFStats_U)
+			{
+				if (Cas_AFStats_U.handler.readyState == 4 && Cas_AFStats_U.handler.status == 200 && Cas_AFStats_U.handler.responseText)
+				{
+					Cas_AFStats_UDiv = fetch_object('cybstats_udiv');
+					cybcurr_u = Cas_AFStats_U.cybcurr_u;
+					cybtarea_u = document.getElementById("cybtopstats_rtitle_area");
+					switch(cybcurr_u)
+					{
+						case 'newestmembers': cybtarea_u.innerHTML = "Newest Members "; break;
+						case 'posters': cybtarea_u.innerHTML = "Top Posters "; break;
+						case 'threadstarters': cybtarea_u.innerHTML = "Top Thread Starters "; break;
+						case 'referrers': cybtarea_u.innerHTML = "Top Referrers "; break;
+						case 'reputations': cybtarea_u.innerHTML = "Top Reputations "; break;
+						case 'thanked': cybtarea_u.innerHTML = "Top Thanked "; break;
+						case 'infractions': cybtarea_u.innerHTML = "Top Infractions "; break;
+						case 'visitors': cybtarea_u.innerHTML = "Profile Visits"; break;
+						case 'groups': cybtarea_u.innerHTML = "Latest Social Groups"; break;
+						case 'donations': cybtarea_u.innerHTML = "Latest Donations"; break;
+						case 'badadmin': cybtarea_u.innerHTML = "User Stats"; break;
+						default: cybtarea_u.innerHTML = "Newest Members "; break;
+					}
+					
+					Cas_AFStats_UDiv.innerHTML = '<table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">' + Cas_AFStats_U.handler.responseText + '</table>';
+				}
+			}
+			
+		}
+		Cas_getLPStats("startup");
+		Cas_getStats("hottestthreads", "threadstarters");
+	-->
+	</script>
+	<br>
+<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<thead>
+	<tr>
+		<td class="tcat" colspan="2">What's Going On?</td>
+	</tr>
+</thead>
+
+
+<!-- logged-in users -->
+<tbody>
+	<tr>
+		<td class="thead" colspan="2">
+			<a style="float:right" href="#top" onclick="return toggle_collapse('forumhome_activeusers')"><img id="collapseimg_forumhome_activeusers" src="images/buttons/collapse_thead.png" alt="" border="0"></a>
+			<a href="http://www.wickedfire.com/online.php?s=26156d5e4e22028545939de26621c553">Currently Active Users</a>: 1,229 (26 members and 1,203 guests)
+		</td>
+	</tr>
+</tbody>
+<tbody id="collapseobj_forumhome_activeusers" style="">
+	<tr>
+		<td class="alt2"><a href="http://www.wickedfire.com/online.php?s=26156d5e4e22028545939de26621c553"><img src="images/misc/whos_online.gif" alt="View Who's Online" border="0" title="View Who's Online"></a></td>
+		<td class="alt1" width="100%">
+			<div class="smallfont">
+				<div style="white-space: nowrap">Most users ever online was 949, 04-05-2011 at 04:55 AM.</div>
+				<div><a href="http://www.wickedfire.com/members/oald1.html?s=26156d5e4e22028545939de26621c553">Oald1</a>, <a href="http://www.wickedfire.com/members/slayerment.html?s=26156d5e4e22028545939de26621c553">slayerment</a></div>
+			</div>
+		</td>
+	</tr>
+</tbody>
+<!-- end logged-in users --><!-- bbcompliance: m: 198390, am: , im: 0, g: 284, rm: 2, to: 286, tt: 139259, tp: 2104260 -->
+
+
+<tbody>
+	<tr>
+		<td class="thead" colspan="2">
+			<a style="float:right" href="#top" onclick="return toggle_collapse('forumhome_stats')"><img id="collapseimg_forumhome_stats" src="images/buttons/collapse_thead.png" alt="" border="0"></a>
+			WickedFire - Affiliate Marketing Forum - Internet Marketing Webmaster SEO Forum Statistics
+		</td>
+	</tr>
+</tbody>
+<tbody id="collapseobj_forumhome_stats" style="">
+	<tr>
+		<td class="alt2"><img src="images/misc/stats.gif" alt="WickedFire - Affiliate Marketing Forum - Internet Marketing Webmaster SEO Forum Statistics" border="0" title="WickedFire - Affiliate Marketing Forum - Internet Marketing Webmaster SEO Forum Statistics"></td>
+		<td class="alt1" width="100%">
+		<div class="smallfont">
+			<div>
+				Threads: 146,580,
+				Posts: 2,106,995,
+				Members: 199,525
+			</div>
+			<div>Welcome to our newest member, <a href="http://www.wickedfire.com/members/wael-elbadrawei.html?s=26156d5e4e22028545939de26621c553">Wael Elbadrawei</a></div>
+			
+		</div>
+		</td>
+	</tr>
+</tbody>
+
+
+<!-- today's birthdays -->
+<tbody>
+	<tr>
+		<td class="thead" colspan="2">
+			<a style="float:right" href="#top" onclick="return toggle_collapse('forumhome_birthdays')"><img id="collapseimg_forumhome_birthdays" src="images/buttons/collapse_thead.png" alt="" border="0"></a>
+			Today's Birthdays
+		</td>
+	</tr>
+</tbody>
+<tbody id="collapseobj_forumhome_birthdays" style="">
+	<tr>
+		<td class="alt2"><a rel="nofollow" href="http://www.wickedfire.com/calendar.php?do=getday&amp;day=2016-11-16&amp;sb=1&amp;s=26156d5e4e22028545939de26621c553"><img src="images/misc/birthday.gif" alt="View Birthdays" border="0" title="View Birthdays"></a></td>
+		<td class="alt1" width="100%"><div class="smallfont"><!--rlm--><a href="http://www.wickedfire.com/members/veena1610.html?s=26156d5e4e22028545939de26621c553">veena1610</a>, <!--rlm--><a href="http://www.wickedfire.com/members/hotsmusic.html?s=26156d5e4e22028545939de26621c553">hotsmusic</a> <!--rlm-->(31), <!--rlm--><a href="http://www.wickedfire.com/members/innaa.html?s=26156d5e4e22028545939de26621c553">Innaa</a></div></td>
+	</tr>
+</tbody>
+<!-- end today's birthdays -->
+
+
+
+
+</table>
+<br>
+<!-- end what's going on box -->
+
+<!-- icons and login code -->
+<table cellpadding="0" cellspacing="2" border="0" width="100%">
+<tbody><tr valign="bottom">
+	<td>
+		<table cellpadding="2" cellspacing="0" border="0">
+
+		<tbody><tr>
+			<td><img src="images/statusicon/forum_new.gif" alt="Contains New Posts" border="0" title="Contains New Posts"></td>
+			<td class="smallfont">&nbsp; Forum Contains New Posts</td>
+		</tr>
+		<tr>
+			<td><img src="images/statusicon/forum_old.gif" alt="Contains No New Posts" border="0" title="Contains No New Posts"></td>
+			<td class="smallfont">&nbsp; Forum Contains No New Posts</td>
+		</tr>
+		
+		</tbody></table>
+	</td>
+	
+</tr>
+</tbody></table>
+<!-- / icons and login code --></td><td width="10">&nbsp;</td>
+	<td valign="top" width="180">
+
+
+
+
+<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<thead>
+<tr>
+		<td class="tcat"></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+	<td class="alt1">
+            <div align="center">
+			<!-- BuySellAds Zone Code -->
+<div id="bsap_1301250" class="bsap bsap_1301250" data-serve="C6YD453W">
+<style type="text/css">
+div.bsap_1301250{width:160px;display:block;}div.bsap_1301250 a{width:160px;}div.bsap_1301250 a img{padding:0;}div.bsap_1301250 a em{font-style:normal;}div.bsap_1301250 a{display:block;font-size:11px;color:#888;font-family:verdana,sans-serif;margin:0;text-align:center;text-decoration:none;overflow:hidden;}
+div.bsap_1301250 img{border:0;clear:right;}
+div.bsap_1301250 a.adhere{color:#666;font-weight:bold;font-size:12px;border:1px solid #ccc;background:#e7e7e7;text-align:center;}
+div.bsap_1301250 a.adhere:hover{border:1px solid #999;background:#ddd;color:#333;}
+div.bsap_1301250 iframe{display:block;font-size:11px;color:#888;font-family:verdana,sans-serif;margin:0;text-align:center;text-decoration:none;overflow:hidden;}div.bsap_1301250 a{line-height:100%;}div.bsap_1301250 a.adhere{width:160px;height:600px;line-height:4800%;}html>body div.bsap_1301250 a.adhere{width:158px;height:598px;}div.bsap_1301250 img.s{height:0;width:0;}div.bsap_1301250{line-height:9px;}div.bsap_1301250 .bsap_adhere a{height:19px !important;width:158px !important;font-size:10px;background:#f1f1f1;border:1px solid #e1e1e1;border-top:none;border-radius: 0 0 2px 2px;line-height:16px;}.bsap_backfillframe{border:0;}
+</style>
+<a href="//srv.buysellads.com/ads/click/x/GTND423UF67IVK3ICVA4YKQWCAAI65QJC6BILZ3JCESILK7UC6YD5K3KC6BD55QICK7IKK3EHJNCLSIZ" class="ad0 odd " title="buy targeted traffic" id="bsa_7042744" target="_blank" rel="nofollow">
+<img src="//s3.buysellads.com/1301250/7042744-1475227032.gif" width="160" height="600" alt=""></a><a href="//srv.buysellads.com/ads/click/x/GTND423UF67IVK3ICVA4YKQWCAAI65QWCVSI5Z3JCESILK7MCV7DK2QKC6BD55QICK7IKK3EHJNCLSIZ" class="ad1  even" title="Stop Paying for Nutra and Skin Products Up Front - Contact Fulfillment.com for more details" id="bsa_7088833" target="_blank" rel="nofollow">
+<img src="//s3.buysellads.com/1301250/338519-1477058579.gif" width="160" height="600" alt=""></a>
+<script type="text/javascript" id="auto_3" class="ignoreme"> if (typeof(BSACallback) !== 'undefined') BSACallback(); </script></div>
+<!-- End BuySellAds Zone Code -->
+            </div>
+	</td>
+</tr>
+</tbody>
+</table>
+<br>
+
+	</td>
+</tr>
+</tbody></table>
+<br>
+
+
+<script type="text/javascript">ame_toggle_view({other : 'true',post : 'true',blog : 'true',group : 'true',vm : 'true',sig : 'true'});</script>
+
+<!-- <script type="text/javascript" src="http://www.wickedfire.com/ads/js.php#type=banner&align=center&zone=3&empty=0"></script> -->
+
+
+<br>
+<div class="smallfont" align="center">All times are GMT -4. The time now is <span class="time">06:43 PM</span>.</div>
+<br>
+
+
+		
+	
+
+
+<!-- / close content container -->
+<!-- /content area table -->
+
+
+
+
+<form action="http://www.wickedfire.com/index.php" method="get">
+
+<table cellpadding="6" cellspacing="0" border="0" width="100%" class="page" align="center">
+<tbody><tr>
+	
+	
+
+	<td class="tfoot" align="right" width="100%">
+		<div class="smallfont">
+			<strong>
+
+				
+				<a href="http://www.wickedfire.com">WickedFire - Affiliate Marketing Forum - Internet Marketing Webmaster SEO Forum</a> -
+				
+				
+				
+				
+				
+<a rel="nofollow" href="http://www.wickedfire.com/view.php?pg=termsofuse">Terms of Use</a> -
+				<a href="#top" onclick="self.scrollTo(0, 0); return false;">Top</a>
+			</strong>
+		</div>
+	</td>
+</tr>
+</tbody></table>
+
+<br>
+
+<div align="center">
+	<div class="smallfont" align="center">
+	<!-- Do not remove this copyright notice -->
+	
+	<!-- Do not remove this copyright notice -->
+	</div>
+
+	<div class="smallfont" align="center">
+	<!-- Do not remove  or your scheduled tasks will cease to function -->
+	
+	<!-- Do not remove  or your scheduled tasks will cease to function -->
+
+	Search Engine Optimisation provided by 
+			<a rel="nofollow" href="http://www.dragonbyte-tech.com/vbecommerce.php?productid=303&amp;do=product&amp;utm_source=wickedfire.com&amp;utm_campaign=Footer%2BLinks&amp;utm_medium=DragonByte%2BSEO&amp;utm_content=Pro" target="_blank">DragonByte SEO v1.2.9 (Pro)</a> - 
+			<a rel="nofollow" href="http://www.dragonbyte-tech.com/?utm_source=wickedfire.com&amp;utm_campaign=Footer%2BLinks&amp;utm_medium=DragonByte%2BSEO&amp;utm_content=Pro" target="_blank">vBulletin Mods &amp; Addons</a> Copyright © 2016 DragonByte Technologies Ltd.<br>WickedFire.com Copyright © 2016 - WickedFire is an international registered Trademark of Coastal Synergy LLC. You may not use any of our trademarks, copyrights, content, or images without a written approval by members of Coastal Synergy LLC. "Banners on this site that promote Wickedfire are satire unless clearly stamped as REAL".
+	</div>
+</div>
+
+</form>
+
+<div style="padding-bottom:6px;text-align:center;">
+	<a rel="nofollow" class="toplinks" href="/index.php?styleid=38">Switch to Mobile Layout</a> </div>
+
+
+
+<script type="text/javascript">
+<!--
+	// Main vBulletin Javascript Initialization
+	vBulletin_init();
+//-->
+</script>
+
+<!-- Syntax Highlighter -->
+
+
+<script type="text/javascript" src="js/shCore.js"></script>
+<script type="text/javascript" src="js/shBrushPhp.js"></script>
+<script type="text/javascript" src="js/shBrushCSharp.js"></script>  
+<script type="text/javascript" src="js/shBrushCss.js"></script>  
+<script type="text/javascript" src="js/shBrushJScript.js"></script>  
+<script type="text/javascript" src="js/shBrushSql.js"></script>  
+<script type="text/javascript" src="js/shBrushVb.js"></script>  
+<script type="text/javascript" src="js/shBrushXml.js"></script>
+<script type="text/javascript">
+window.onload = function () {
+ dp.SyntaxHighlighter.ClipboardSwf = 'js/clipboard.swf';
+ dp.SyntaxHighlighter.HighlightAll('code', true, true, false, 1, false);
+}
+</script>
+
+
+<!-- <img src="http://www.wickedfire.com:8080/vbseo_tracker.gif"/> -->
+
+
+</td></tr></tbody></table></div></div></div></body></html>
